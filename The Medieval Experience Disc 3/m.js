@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Veni Sancte Spiritus, isorhythmic motet for 4 voices, MB 32.mp3";		
+f[2]	= "02 Beata mater, antiphon for 3 voices (also attrib. to Power), MB 60.mp3";		
+f[3]	= "03 Preco preheminencie, isorhythmic motet for 4 voices, MB 29.mp3";		
+f[4]	= "04 Supremum est mortalibus, isorhytmic motet for 3 voices.mp3";		
+f[5]	= "05 Flos florum, cantilena motet for 3 voices.mp3";		
+f[6]	= "06 Vasilissa ergo gaude, isorhythmic motet for 4 voices.mp3";		
+f[7]	= "07 Alma redemptoris mater, antiphon for 3 voices.mp3";		
+f[8]	= "08 Gloria, Laus et Honor.mp3";		
+f[9]	= "09 Agnus Dei.mp3";		
+f[10]	= "10 Beata es Maria.mp3";		
+f[11]	= "11 Huc me sydereo-Plangent eum, motet for 5 or 6 parts.mp3";		
