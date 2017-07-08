@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 West End Blues.mp3";		
+f[2]	= "02 A Night In Tunisia.mp3";		
+f[3]	= "03 Goodbye Pork Pie Hat.mp3";		
+f[4]	= "04 Lester Leaps In.mp3";		
+f[5]	= "06 St. Thomas.mp3";		
+f[6]	= "08 Black Bottom Stomp.mp3";		
+f[7]	= "09 Flying Home.mp3";		
+f[8]	= "10 C Jam Blues.mp3";		
+f[9]	= "11 Ain't Misbehavin'.mp3";		
+f[10]	= "12 Woodchoppers Ball.mp3";		
+f[11]	= "13 Autumn Leaves.mp3";		
+f[12]	= "14 The Peanut Vendor.mp3";		
+f[13]	= "15 Bouncing With Bud.mp3";		
+f[14]	= "Cherokee.mp3";		
+f[15]	= "Summertime.mp3";		
