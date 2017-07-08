@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Missa 'L'homme arme' super voces musicales, for 4 parts.mp3";		
+f[2]	= "02 Missa 'L'homme arme' super voces musicales, for 4 parts.mp3";		
+f[3]	= "03 Missa 'L'homme arme' super voces musicales, for 4 parts.mp3";		
+f[4]	= "04 Missa 'L'homme arme' super voces musicales, for 4 parts.mp3";		
+f[5]	= "05 Missa 'L'homme arme' super voces musicales, for 4 parts.mp3";		
+f[6]	= "06 Requiem (Missa pro Defunctis), for 4 voices (introit, Kyrie, gradual, offertory only).mp3";		
+f[7]	= "07 Requiem (Missa pro Defunctis), for 4 voices (introit, Kyrie, gradual, offertory only).mp3";		
+f[8]	= "08 Requiem (Missa pro Defunctis), for 4 voices (introit, Kyrie, gradual, offertory only).mp3";		
+f[9]	= "09 Requiem (Missa pro Defunctis), for 4 voices (introit, Kyrie, gradual, offertory only).mp3";		
+f[10]	= "10 Requiem (Missa pro Defunctis), for 4 voices (introit, Kyrie, gradual, offertory only).mp3";		
+f[11]	= "11 Nymphes des bois-Requiem aeternam-Deploration de la Mort de Jehan Ockeghem, lament for 5 parts.mp3";		
